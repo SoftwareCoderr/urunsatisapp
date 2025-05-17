@@ -1,4 +1,3 @@
-```diff
 
 ➕Proje iskeleti oluşturuldu ve ilk commit eklendi(Commit1)
 
