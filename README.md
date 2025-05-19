@@ -8,7 +8,7 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-✅- İş Paketi 1: .NET MAUI ile Proje Başlatma, LiteDB Entegrasyonu ve ActivityIndicator Kullanımı
+✅ İş Paketi 1: .NET MAUI ile Proje Başlatma, LiteDB Entegrasyonu ve ActivityIndicator Kullanımı
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ◉Açıklama: Proje .NET MAUI altyapısı ile başlatıldı. Yerel veritabanı olarak LiteDB kullanıldı. Kullanıcı verileri ve ürün bilgileri, cihaz içinde saklanacak şekilde MyContext sınıfı ile yapılandırıldı.
